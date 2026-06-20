@@ -1,5 +1,8 @@
 # TipidCircle
 
+![picture](./picture.jpg)
+
+
 > Paluwagan on Stellar — the Filipino rotating savings group, now trustless.
 
 ---
